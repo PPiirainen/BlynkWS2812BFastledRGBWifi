@@ -9,12 +9,12 @@
 #define FASTLED_ALLOW_INTERRUPTS 0
 
 #define noInterrupts() cli()
-char auth[] = "95d2bf70b7ba4c4b9bbaf5a57e6f37aa";
+char auth[] = "AuhtKey;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "IidAsus";
-char pass[] = "RPi99981";
+char ssid[] = "SSID";
+char pass[] = "PASS";
 
 
 #define DATA_PIN 18
